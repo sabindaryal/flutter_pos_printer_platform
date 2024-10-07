@@ -20,4 +20,4 @@ FLUTTER_PLUGIN_EXPORT void FlutterPosPrinterPlatformPluginRegisterWithRegistrar(
 }  // extern "C"
 #endif
 
-#endif  // FLUTTER_PLUGIN_FLUTTER_POS_PRINTER_PLATFORM_PLUGIN_C_API_H_
+#endif  // 
